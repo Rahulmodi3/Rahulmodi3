@@ -6,6 +6,10 @@
 
 - 💬 Ask me about **Python, Selenium Webdriver**
 
+
+## 🛠 Skills
+Python, API Testing, API Automation with Python, Selenium Web driver with Python, Jenkins (Basic)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/modirahul8143" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rahulmodi3/Rahulmodi3/main/Images/twitter.svg" alt="modirahul8143" height="40" width="40" /></a>
