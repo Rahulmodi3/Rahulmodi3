@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Quality Engineer From India</h3>
 </br>
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Python, Selenium Webdriver**
 
